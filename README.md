@@ -1,4 +1,4 @@
-oiie amigos, bem vindos.
+Oiie amigos, bem vindos.
 
 <!--
 **ggvieira/ggvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
